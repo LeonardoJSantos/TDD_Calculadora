@@ -1,0 +1,14 @@
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\bin\Debug\net6.0\MinhaCalculadora.exe
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\bin\Debug\net6.0\MinhaCalculadora.deps.json
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\bin\Debug\net6.0\MinhaCalculadora.runtimeconfig.json
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\bin\Debug\net6.0\MinhaCalculadora.dll
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\bin\Debug\net6.0\MinhaCalculadora.pdb
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.AssemblyInfoInputs.cache
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.AssemblyInfo.cs
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.csproj.CoreCompileInputs.cache
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.dll
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\refint\MinhaCalculadora.dll
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.pdb
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\MinhaCalculadora.genruntimeconfig.cache
+H:\Testes TDD\MinhaCalculadora\MinhaCalculadora\obj\Debug\net6.0\ref\MinhaCalculadora.dll
